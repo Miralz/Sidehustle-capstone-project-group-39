@@ -43,6 +43,7 @@ body {
   display: flex;
   justify-content: space-around;
   background: rgb(245, 247, 255);
+  align-items: center;
 }
 img.ill {
   border-top-right-radius: 10px;
