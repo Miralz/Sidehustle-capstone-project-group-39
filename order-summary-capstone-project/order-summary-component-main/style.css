@@ -27,6 +27,10 @@ body {
   color: rgb(119, 116, 116);
 }
 
+#annual{
+  padding-right: 150px;
+}
+
 #order {
   font-size: 30px;
   font-weight: 900;
